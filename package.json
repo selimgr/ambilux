@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "average-colour": "0.0.1",
-    "robotjs": "^0.3.3"
+    "robotjs": "^0.6.0"
   },
   "devDependencies": {
     "ava": "^0.5.0",
